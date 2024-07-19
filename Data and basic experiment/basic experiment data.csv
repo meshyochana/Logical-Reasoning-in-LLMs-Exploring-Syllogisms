@@ -1,0 +1,257 @@
+,syllogisms,classification,validaion flags (AL),binary validation flags (AL)
+0,"all b are a, all c are b; all c are a.",AAA1,Unconditionally valid,valid
+1,"all b are a, all c are b; some c are a.",AAI1,Conditionally valid,valid
+2,"all b are a, all c are b; no c are a.",AAE1,Invalid,invalid
+3,"all b are a, all c are b; some c are not a.",AAO1,Invalid,invalid
+4,"all b are a, some c are b; all c are a.",AIA1,Invalid,invalid
+5,"all b are a, some c are b; some c are a.",AII1,Unconditionally valid,valid
+6,"all b are a, some c are b; no c are a.",AIE1,Invalid,invalid
+7,"all b are a, some c are b; some c are not a.",AIO1,Invalid,invalid
+8,"all b are a, no c are b; all c are a.",AEA1,Invalid,invalid
+9,"all b are a, no c are b; some c are a.",AEI1,Invalid,invalid
+10,"all b are a, no c are b; no c are a.",AEE1,Invalid,invalid
+11,"all b are a, no c are b; some c are not a.",AEO1,Invalid,invalid
+12,"all b are a, some c are not b; all c are a.",AOA1,Invalid,invalid
+13,"all b are a, some c are not b; some c are a.",AOI1,Invalid,invalid
+14,"all b are a, some c are not b; no c are a.",AOE1,Invalid,invalid
+15,"all b are a, some c are not b; some c are not a.",AOO1,Invalid,invalid
+16,"some b are a, all c are b; all c are a.",IAA1,Invalid,invalid
+17,"some b are a, all c are b; some c are a.",IAI1,Invalid,invalid
+18,"some b are a, all c are b; no c are a.",IAE1,Invalid,invalid
+19,"some b are a, all c are b; some c are not a.",IAO1,Invalid,invalid
+20,"some b are a, some c are b; all c are a.",IIA1,Invalid,invalid
+21,"some b are a, some c are b; some c are a.",III1,Invalid,invalid
+22,"some b are a, some c are b; no c are a.",IIE1,Invalid,invalid
+23,"some b are a, some c are b; some c are not a.",IIO1,Invalid,invalid
+24,"some b are a, no c are b; all c are a.",IEA1,Invalid,invalid
+25,"some b are a, no c are b; some c are a.",IEI1,Invalid,invalid
+26,"some b are a, no c are b; no c are a.",IEE1,Invalid,invalid
+27,"some b are a, no c are b; some c are not a.",IEO1,Invalid,invalid
+28,"some b are a, some c are not b; all c are a.",IOA1,Invalid,invalid
+29,"some b are a, some c are not b; some c are a.",IOI1,Invalid,invalid
+30,"some b are a, some c are not b; no c are a.",IOE1,Invalid,invalid
+31,"some b are a, some c are not b; some c are not a.",IOO1,Invalid,invalid
+32,"no b are a, all c are b; all c are a.",EAA1,Invalid,invalid
+33,"no b are a, all c are b; some c are a.",EAI1,Invalid,invalid
+34,"no b are a, all c are b; no c are a.",EAE1,Unconditionally valid,valid
+35,"no b are a, all c are b; some c are not a.",EAO1,Conditionally valid,valid
+36,"no b are a, some c are b; all c are a.",EIA1,Invalid,invalid
+37,"no b are a, some c are b; some c are a.",EII1,Invalid,invalid
+38,"no b are a, some c are b; no c are a.",EIE1,Invalid,invalid
+39,"no b are a, some c are b; some c are not a.",EIO1,Unconditionally valid,valid
+40,"no b are a, no c are b; all c are a.",EEA1,Invalid,invalid
+41,"no b are a, no c are b; some c are a.",EEI1,Invalid,invalid
+42,"no b are a, no c are b; no c are a.",EEE1,Invalid,invalid
+43,"no b are a, no c are b; some c are not a.",EEO1,Invalid,invalid
+44,"no b are a, some c are not b; all c are a.",EOA1,Invalid,invalid
+45,"no b are a, some c are not b; some c are a.",EOI1,Invalid,invalid
+46,"no b are a, some c are not b; no c are a.",EOE1,Invalid,invalid
+47,"no b are a, some c are not b; some c are not a.",EOO1,Invalid,invalid
+48,"some b are not a, all c are b; all c are a.",OAA1,Invalid,invalid
+49,"some b are not a, all c are b; some c are a.",OAI1,Invalid,invalid
+50,"some b are not a, all c are b; no c are a.",OAE1,Invalid,invalid
+51,"some b are not a, all c are b; some c are not a.",OAO1,Invalid,invalid
+52,"some b are not a, some c are b; all c are a.",OIA1,Invalid,invalid
+53,"some b are not a, some c are b; some c are a.",OII1,Invalid,invalid
+54,"some b are not a, some c are b; no c are a.",OIE1,Invalid,invalid
+55,"some b are not a, some c are b; some c are not a.",OIO1,Invalid,invalid
+56,"some b are not a, no c are b; all c are a.",OEA1,Invalid,invalid
+57,"some b are not a, no c are b; some c are a.",OEI1,Invalid,invalid
+58,"some b are not a, no c are b; no c are a.",OEE1,Invalid,invalid
+59,"some b are not a, no c are b; some c are not a.",OEO1,Invalid,invalid
+60,"some b are not a, some c are not b; all c are a.",OOA1,Invalid,invalid
+61,"some b are not a, some c are not b; some c are a.",OOI1,Invalid,invalid
+62,"some b are not a, some c are not b; no c are a.",OOE1,Invalid,invalid
+63,"some b are not a, some c are not b; some c are not a.",OOO1,Invalid,invalid
+64,"all a are b, all c are b; all c are a.",AAA2,Invalid,invalid
+65,"all a are b, all c are b; some c are a.",AAI2,Invalid,invalid
+66,"all a are b, all c are b; no c are a.",AAE2,Invalid,invalid
+67,"all a are b, all c are b; some c are not a.",AAO2,Invalid,invalid
+68,"all a are b, some c are b; all c are a.",AIA2,Invalid,invalid
+69,"all a are b, some c are b; some c are a.",AII2,Invalid,invalid
+70,"all a are b, some c are b; no c are a.",AIE2,Invalid,invalid
+71,"all a are b, some c are b; some c are not a.",AIO2,Invalid,invalid
+72,"all a are b, no c are b; all c are a.",AEA2,Invalid,invalid
+73,"all a are b, no c are b; some c are a.",AEI2,Invalid,invalid
+74,"all a are b, no c are b; no c are a.",AEE2,Unconditionally valid,valid
+75,"all a are b, no c are b; some c are not a.",AEO2,Conditionally valid,valid
+76,"all a are b, some c are not b; all c are a.",AOA2,Invalid,invalid
+77,"all a are b, some c are not b; some c are a.",AOI2,Invalid,invalid
+78,"all a are b, some c are not b; no c are a.",AOE2,Invalid,invalid
+79,"all a are b, some c are not b; some c are not a.",AOO2,Unconditionally valid,valid
+80,"some a are b, all c are b; all c are a.",IAA2,Invalid,invalid
+81,"some a are b, all c are b; some c are a.",IAI2,Invalid,invalid
+82,"some a are b, all c are b; no c are a.",IAE2,Invalid,invalid
+83,"some a are b, all c are b; some c are not a.",IAO2,Invalid,invalid
+84,"some a are b, some c are b; all c are a.",IIA2,Invalid,invalid
+85,"some a are b, some c are b; some c are a.",III2,Invalid,invalid
+86,"some a are b, some c are b; no c are a.",IIE2,Invalid,invalid
+87,"some a are b, some c are b; some c are not a.",IIO2,Invalid,invalid
+88,"some a are b, no c are b; all c are a.",IEA2,Invalid,invalid
+89,"some a are b, no c are b; some c are a.",IEI2,Invalid,invalid
+90,"some a are b, no c are b; no c are a.",IEE2,Invalid,invalid
+91,"some a are b, no c are b; some c are not a.",IEO2,Invalid,invalid
+92,"some a are b, some c are not b; all c are a.",IOA2,Invalid,invalid
+93,"some a are b, some c are not b; some c are a.",IOI2,Invalid,invalid
+94,"some a are b, some c are not b; no c are a.",IOE2,Invalid,invalid
+95,"some a are b, some c are not b; some c are not a.",IOO2,Invalid,invalid
+96,"no a are b, all c are b; all c are a.",EAA2,Invalid,invalid
+97,"no a are b, all c are b; some c are a.",EAI2,Invalid,invalid
+98,"no a are b, all c are b; no c are a.",EAE2,Unconditionally valid,valid
+99,"no a are b, all c are b; some c are not a.",EAO2,Conditionally valid,valid
+100,"no a are b, some c are b; all c are a.",EIA2,Invalid,invalid
+101,"no a are b, some c are b; some c are a.",EII2,Invalid,invalid
+102,"no a are b, some c are b; no c are a.",EIE2,Invalid,invalid
+103,"no a are b, some c are b; some c are not a.",EIO2,Unconditionally valid,valid
+104,"no a are b, no c are b; all c are a.",EEA2,Invalid,invalid
+105,"no a are b, no c are b; some c are a.",EEI2,Invalid,invalid
+106,"no a are b, no c are b; no c are a.",EEE2,Invalid,invalid
+107,"no a are b, no c are b; some c are not a.",EEO2,Invalid,invalid
+108,"no a are b, some c are not b; all c are a.",EOA2,Invalid,invalid
+109,"no a are b, some c are not b; some c are a.",EOI2,Invalid,invalid
+110,"no a are b, some c are not b; no c are a.",EOE2,Invalid,invalid
+111,"no a are b, some c are not b; some c are not a.",EOO2,Invalid,invalid
+112,"some a are not b, all c are b; all c are a.",OAA2,Invalid,invalid
+113,"some a are not b, all c are b; some c are a.",OAI2,Invalid,invalid
+114,"some a are not b, all c are b; no c are a.",OAE2,Invalid,invalid
+115,"some a are not b, all c are b; some c are not a.",OAO2,Invalid,invalid
+116,"some a are not b, some c are b; all c are a.",OIA2,Invalid,invalid
+117,"some a are not b, some c are b; some c are a.",OII2,Invalid,invalid
+118,"some a are not b, some c are b; no c are a.",OIE2,Invalid,invalid
+119,"some a are not b, some c are b; some c are not a.",OIO2,Invalid,invalid
+120,"some a are not b, no c are b; all c are a.",OEA2,Invalid,invalid
+121,"some a are not b, no c are b; some c are a.",OEI2,Invalid,invalid
+122,"some a are not b, no c are b; no c are a.",OEE2,Invalid,invalid
+123,"some a are not b, no c are b; some c are not a.",OEO2,Invalid,invalid
+124,"some a are not b, some c are not b; all c are a.",OOA2,Invalid,invalid
+125,"some a are not b, some c are not b; some c are a.",OOI2,Invalid,invalid
+126,"some a are not b, some c are not b; no c are a.",OOE2,Invalid,invalid
+127,"some a are not b, some c are not b; some c are not a.",OOO2,Invalid,invalid
+128,"all b are a, all b are c; all c are a.",AAA3,Invalid,invalid
+129,"all b are a, all b are c; some c are a.",AAI3,Conditionally valid,valid
+130,"all b are a, all b are c; no c are a.",AAE3,Invalid,invalid
+131,"all b are a, all b are c; some c are not a.",AAO3,Invalid,invalid
+132,"all b are a, some b are c; all c are a.",AIA3,Invalid,invalid
+133,"all b are a, some b are c; some c are a.",AII3,Unconditionally valid,valid
+134,"all b are a, some b are c; no c are a.",AIE3,Invalid,invalid
+135,"all b are a, some b are c; some c are not a.",AIO3,Invalid,invalid
+136,"all b are a, no b are c; all c are a.",AEA3,Invalid,invalid
+137,"all b are a, no b are c; some c are a.",AEI3,Invalid,invalid
+138,"all b are a, no b are c; no c are a.",AEE3,Invalid,invalid
+139,"all b are a, no b are c; some c are not a.",AEO3,Invalid,invalid
+140,"all b are a, some b are not c; all c are a.",AOA3,Invalid,invalid
+141,"all b are a, some b are not c; some c are a.",AOI3,Invalid,invalid
+142,"all b are a, some b are not c; no c are a.",AOE3,Invalid,invalid
+143,"all b are a, some b are not c; some c are not a.",AOO3,Invalid,invalid
+144,"some b are a, all b are c; all c are a.",IAA3,Invalid,invalid
+145,"some b are a, all b are c; some c are a.",IAI3,Unconditionally valid,valid
+146,"some b are a, all b are c; no c are a.",IAE3,Invalid,invalid
+147,"some b are a, all b are c; some c are not a.",IAO3,Invalid,invalid
+148,"some b are a, some b are c; all c are a.",IIA3,Invalid,invalid
+149,"some b are a, some b are c; some c are a.",III3,Invalid,invalid
+150,"some b are a, some b are c; no c are a.",IIE3,Invalid,invalid
+151,"some b are a, some b are c; some c are not a.",IIO3,Invalid,invalid
+152,"some b are a, no b are c; all c are a.",IEA3,Invalid,invalid
+153,"some b are a, no b are c; some c are a.",IEI3,Invalid,invalid
+154,"some b are a, no b are c; no c are a.",IEE3,Invalid,invalid
+155,"some b are a, no b are c; some c are not a.",IEO3,Invalid,invalid
+156,"some b are a, some b are not c; all c are a.",IOA3,Invalid,invalid
+157,"some b are a, some b are not c; some c are a.",IOI3,Invalid,invalid
+158,"some b are a, some b are not c; no c are a.",IOE3,Invalid,invalid
+159,"some b are a, some b are not c; some c are not a.",IOO3,Invalid,invalid
+160,"no b are a, all b are c; all c are a.",EAA3,Invalid,invalid
+161,"no b are a, all b are c; some c are a.",EAI3,Invalid,invalid
+162,"no b are a, all b are c; no c are a.",EAE3,Invalid,invalid
+163,"no b are a, all b are c; some c are not a.",EAO3,Conditionally valid,valid
+164,"no b are a, some b are c; all c are a.",EIA3,Invalid,invalid
+165,"no b are a, some b are c; some c are a.",EII3,Invalid,invalid
+166,"no b are a, some b are c; no c are a.",EIE3,Invalid,invalid
+167,"no b are a, some b are c; some c are not a.",EIO3,Unconditionally valid,valid
+168,"no b are a, no b are c; all c are a.",EEA3,Invalid,invalid
+169,"no b are a, no b are c; some c are a.",EEI3,Invalid,invalid
+170,"no b are a, no b are c; no c are a.",EEE3,Invalid,invalid
+171,"no b are a, no b are c; some c are not a.",EEO3,Invalid,invalid
+172,"no b are a, some b are not c; all c are a.",EOA3,Invalid,invalid
+173,"no b are a, some b are not c; some c are a.",EOI3,Invalid,invalid
+174,"no b are a, some b are not c; no c are a.",EOE3,Invalid,invalid
+175,"no b are a, some b are not c; some c are not a.",EOO3,Invalid,invalid
+176,"some b are not a, all b are c; all c are a.",OAA3,Invalid,invalid
+177,"some b are not a, all b are c; some c are a.",OAI3,Invalid,invalid
+178,"some b are not a, all b are c; no c are a.",OAE3,Invalid,invalid
+179,"some b are not a, all b are c; some c are not a.",OAO3,Unconditionally valid,valid
+180,"some b are not a, some b are c; all c are a.",OIA3,Invalid,invalid
+181,"some b are not a, some b are c; some c are a.",OII3,Invalid,invalid
+182,"some b are not a, some b are c; no c are a.",OIE3,Invalid,invalid
+183,"some b are not a, some b are c; some c are not a.",OIO3,Invalid,invalid
+184,"some b are not a, no b are c; all c are a.",OEA3,Invalid,invalid
+185,"some b are not a, no b are c; some c are a.",OEI3,Invalid,invalid
+186,"some b are not a, no b are c; no c are a.",OEE3,Invalid,invalid
+187,"some b are not a, no b are c; some c are not a.",OEO3,Invalid,invalid
+188,"some b are not a, some b are not c; all c are a.",OOA3,Invalid,invalid
+189,"some b are not a, some b are not c; some c are a.",OOI3,Invalid,invalid
+190,"some b are not a, some b are not c; no c are a.",OOE3,Invalid,invalid
+191,"some b are not a, some b are not c; some c are not a.",OOO3,Invalid,invalid
+192,"all a are b, all b are c; all c are a.",AAA4,Invalid,invalid
+193,"all a are b, all b are c; some c are a.",AAI4,Conditionally valid,valid
+194,"all a are b, all b are c; no c are a.",AAE4,Invalid,invalid
+195,"all a are b, all b are c; some c are not a.",AAO4,Invalid,invalid
+196,"all a are b, some b are c; all c are a.",AIA4,Invalid,invalid
+197,"all a are b, some b are c; some c are a.",AII4,Invalid,invalid
+198,"all a are b, some b are c; no c are a.",AIE4,Invalid,invalid
+199,"all a are b, some b are c; some c are not a.",AIO4,Invalid,invalid
+200,"all a are b, no b are c; all c are a.",AEA4,Invalid,invalid
+201,"all a are b, no b are c; some c are a.",AEI4,Invalid,invalid
+202,"all a are b, no b are c; no c are a.",AEE4,Unconditionally valid,valid
+203,"all a are b, no b are c; some c are not a.",AEO4,Conditionally valid,valid
+204,"all a are b, some b are not c; all c are a.",AOA4,Invalid,invalid
+205,"all a are b, some b are not c; some c are a.",AOI4,Invalid,invalid
+206,"all a are b, some b are not c; no c are a.",AOE4,Invalid,invalid
+207,"all a are b, some b are not c; some c are not a.",AOO4,Invalid,invalid
+208,"some a are b, all b are c; all c are a.",IAA4,Invalid,invalid
+209,"some a are b, all b are c; some c are a.",IAI4,Unconditionally valid,valid
+210,"some a are b, all b are c; no c are a.",IAE4,Invalid,invalid
+211,"some a are b, all b are c; some c are not a.",IAO4,Invalid,invalid
+212,"some a are b, some b are c; all c are a.",IIA4,Invalid,invalid
+213,"some a are b, some b are c; some c are a.",III4,Invalid,invalid
+214,"some a are b, some b are c; no c are a.",IIE4,Invalid,invalid
+215,"some a are b, some b are c; some c are not a.",IIO4,Invalid,invalid
+216,"some a are b, no b are c; all c are a.",IEA4,Invalid,invalid
+217,"some a are b, no b are c; some c are a.",IEI4,Invalid,invalid
+218,"some a are b, no b are c; no c are a.",IEE4,Invalid,invalid
+219,"some a are b, no b are c; some c are not a.",IEO4,Invalid,invalid
+220,"some a are b, some b are not c; all c are a.",IOA4,Invalid,invalid
+221,"some a are b, some b are not c; some c are a.",IOI4,Invalid,invalid
+222,"some a are b, some b are not c; no c are a.",IOE4,Invalid,invalid
+223,"some a are b, some b are not c; some c are not a.",IOO4,Invalid,invalid
+224,"no a are b, all b are c; all c are a.",EAA4,Invalid,invalid
+225,"no a are b, all b are c; some c are a.",EAI4,Invalid,invalid
+226,"no a are b, all b are c; no c are a.",EAE4,Invalid,invalid
+227,"no a are b, all b are c; some c are not a.",EAO4,Conditionally valid,valid
+228,"no a are b, some b are c; all c are a.",EIA4,Invalid,invalid
+229,"no a are b, some b are c; some c are a.",EII4,Invalid,invalid
+230,"no a are b, some b are c; no c are a.",EIE4,Invalid,invalid
+231,"no a are b, some b are c; some c are not a.",EIO4,Unconditionally valid,valid
+232,"no a are b, no b are c; all c are a.",EEA4,Invalid,invalid
+233,"no a are b, no b are c; some c are a.",EEI4,Invalid,invalid
+234,"no a are b, no b are c; no c are a.",EEE4,Invalid,invalid
+235,"no a are b, no b are c; some c are not a.",EEO4,Invalid,invalid
+236,"no a are b, some b are not c; all c are a.",EOA4,Invalid,invalid
+237,"no a are b, some b are not c; some c are a.",EOI4,Invalid,invalid
+238,"no a are b, some b are not c; no c are a.",EOE4,Invalid,invalid
+239,"no a are b, some b are not c; some c are not a.",EOO4,Invalid,invalid
+240,"some a are not b, all b are c; all c are a.",OAA4,Invalid,invalid
+241,"some a are not b, all b are c; some c are a.",OAI4,Invalid,invalid
+242,"some a are not b, all b are c; no c are a.",OAE4,Invalid,invalid
+243,"some a are not b, all b are c; some c are not a.",OAO4,Invalid,invalid
+244,"some a are not b, some b are c; all c are a.",OIA4,Invalid,invalid
+245,"some a are not b, some b are c; some c are a.",OII4,Invalid,invalid
+246,"some a are not b, some b are c; no c are a.",OIE4,Invalid,invalid
+247,"some a are not b, some b are c; some c are not a.",OIO4,Invalid,invalid
+248,"some a are not b, no b are c; all c are a.",OEA4,Invalid,invalid
+249,"some a are not b, no b are c; some c are a.",OEI4,Invalid,invalid
+250,"some a are not b, no b are c; no c are a.",OEE4,Invalid,invalid
+251,"some a are not b, no b are c; some c are not a.",OEO4,Invalid,invalid
+252,"some a are not b, some b are not c; all c are a.",OOA4,Invalid,invalid
+253,"some a are not b, some b are not c; some c are a.",OOI4,Invalid,invalid
+254,"some a are not b, some b are not c; no c are a.",OOE4,Invalid,invalid
+255,"some a are not b, some b are not c; some c are not a.",OOO4,Invalid,invalid

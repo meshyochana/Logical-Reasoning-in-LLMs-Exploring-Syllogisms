@@ -1,0 +1,256 @@
+all {b} are {a}, all {c} are {b}; all {c} are {a}.
+all {b} are {a}, all {c} are {b}; some {c} are {a}.
+all {b} are {a}, all {c} are {b}; no {c} are {a}.
+all {b} are {a}, all {c} are {b}; some {c} are not {a}.
+all {b} are {a}, some {c} are {b}; all {c} are {a}.
+all {b} are {a}, some {c} are {b}; some {c} are {a}.
+all {b} are {a}, some {c} are {b}; no {c} are {a}.
+all {b} are {a}, some {c} are {b}; some {c} are not {a}.
+all {b} are {a}, no {c} are {b}; all {c} are {a}.
+all {b} are {a}, no {c} are {b}; some {c} are {a}.
+all {b} are {a}, no {c} are {b}; no {c} are {a}.
+all {b} are {a}, no {c} are {b}; some {c} are not {a}.
+all {b} are {a}, some {c} are not {b}; all {c} are {a}.
+all {b} are {a}, some {c} are not {b}; some {c} are {a}.
+all {b} are {a}, some {c} are not {b}; no {c} are {a}.
+all {b} are {a}, some {c} are not {b}; some {c} are not {a}.
+some {b} are {a}, all {c} are {b}; all {c} are {a}.
+some {b} are {a}, all {c} are {b}; some {c} are {a}.
+some {b} are {a}, all {c} are {b}; no {c} are {a}.
+some {b} are {a}, all {c} are {b}; some {c} are not {a}.
+some {b} are {a}, some {c} are {b}; all {c} are {a}.
+some {b} are {a}, some {c} are {b}; some {c} are {a}.
+some {b} are {a}, some {c} are {b}; no {c} are {a}.
+some {b} are {a}, some {c} are {b}; some {c} are not {a}.
+some {b} are {a}, no {c} are {b}; all {c} are {a}.
+some {b} are {a}, no {c} are {b}; some {c} are {a}.
+some {b} are {a}, no {c} are {b}; no {c} are {a}.
+some {b} are {a}, no {c} are {b}; some {c} are not {a}.
+some {b} are {a}, some {c} are not {b}; all {c} are {a}.
+some {b} are {a}, some {c} are not {b}; some {c} are {a}.
+some {b} are {a}, some {c} are not {b}; no {c} are {a}.
+some {b} are {a}, some {c} are not {b}; some {c} are not {a}.
+no {b} are {a}, all {c} are {b}; all {c} are {a}.
+no {b} are {a}, all {c} are {b}; some {c} are {a}.
+no {b} are {a}, all {c} are {b}; no {c} are {a}.
+no {b} are {a}, all {c} are {b}; some {c} are not {a}.
+no {b} are {a}, some {c} are {b}; all {c} are {a}.
+no {b} are {a}, some {c} are {b}; some {c} are {a}.
+no {b} are {a}, some {c} are {b}; no {c} are {a}.
+no {b} are {a}, some {c} are {b}; some {c} are not {a}.
+no {b} are {a}, no {c} are {b}; all {c} are {a}.
+no {b} are {a}, no {c} are {b}; some {c} are {a}.
+no {b} are {a}, no {c} are {b}; no {c} are {a}.
+no {b} are {a}, no {c} are {b}; some {c} are not {a}.
+no {b} are {a}, some {c} are not {b}; all {c} are {a}.
+no {b} are {a}, some {c} are not {b}; some {c} are {a}.
+no {b} are {a}, some {c} are not {b}; no {c} are {a}.
+no {b} are {a}, some {c} are not {b}; some {c} are not {a}.
+some {b} are not {a}, all {c} are {b}; all {c} are {a}.
+some {b} are not {a}, all {c} are {b}; some {c} are {a}.
+some {b} are not {a}, all {c} are {b}; no {c} are {a}.
+some {b} are not {a}, all {c} are {b}; some {c} are not {a}.
+some {b} are not {a}, some {c} are {b}; all {c} are {a}.
+some {b} are not {a}, some {c} are {b}; some {c} are {a}.
+some {b} are not {a}, some {c} are {b}; no {c} are {a}.
+some {b} are not {a}, some {c} are {b}; some {c} are not {a}.
+some {b} are not {a}, no {c} are {b}; all {c} are {a}.
+some {b} are not {a}, no {c} are {b}; some {c} are {a}.
+some {b} are not {a}, no {c} are {b}; no {c} are {a}.
+some {b} are not {a}, no {c} are {b}; some {c} are not {a}.
+some {b} are not {a}, some {c} are not {b}; all {c} are {a}.
+some {b} are not {a}, some {c} are not {b}; some {c} are {a}.
+some {b} are not {a}, some {c} are not {b}; no {c} are {a}.
+some {b} are not {a}, some {c} are not {b}; some {c} are not {a}.
+all {a} are {b}, all {c} are {b}; all {c} are {a}.
+all {a} are {b}, all {c} are {b}; some {c} are {a}.
+all {a} are {b}, all {c} are {b}; no {c} are {a}.
+all {a} are {b}, all {c} are {b}; some {c} are not {a}.
+all {a} are {b}, some {c} are {b}; all {c} are {a}.
+all {a} are {b}, some {c} are {b}; some {c} are {a}.
+all {a} are {b}, some {c} are {b}; no {c} are {a}.
+all {a} are {b}, some {c} are {b}; some {c} are not {a}.
+all {a} are {b}, no {c} are {b}; all {c} are {a}.
+all {a} are {b}, no {c} are {b}; some {c} are {a}.
+all {a} are {b}, no {c} are {b}; no {c} are {a}.
+all {a} are {b}, no {c} are {b}; some {c} are not {a}.
+all {a} are {b}, some {c} are not {b}; all {c} are {a}.
+all {a} are {b}, some {c} are not {b}; some {c} are {a}.
+all {a} are {b}, some {c} are not {b}; no {c} are {a}.
+all {a} are {b}, some {c} are not {b}; some {c} are not {a}.
+some {a} are {b}, all {c} are {b}; all {c} are {a}.
+some {a} are {b}, all {c} are {b}; some {c} are {a}.
+some {a} are {b}, all {c} are {b}; no {c} are {a}.
+some {a} are {b}, all {c} are {b}; some {c} are not {a}.
+some {a} are {b}, some {c} are {b}; all {c} are {a}.
+some {a} are {b}, some {c} are {b}; some {c} are {a}.
+some {a} are {b}, some {c} are {b}; no {c} are {a}.
+some {a} are {b}, some {c} are {b}; some {c} are not {a}.
+some {a} are {b}, no {c} are {b}; all {c} are {a}.
+some {a} are {b}, no {c} are {b}; some {c} are {a}.
+some {a} are {b}, no {c} are {b}; no {c} are {a}.
+some {a} are {b}, no {c} are {b}; some {c} are not {a}.
+some {a} are {b}, some {c} are not {b}; all {c} are {a}.
+some {a} are {b}, some {c} are not {b}; some {c} are {a}.
+some {a} are {b}, some {c} are not {b}; no {c} are {a}.
+some {a} are {b}, some {c} are not {b}; some {c} are not {a}.
+no {a} are {b}, all {c} are {b}; all {c} are {a}.
+no {a} are {b}, all {c} are {b}; some {c} are {a}.
+no {a} are {b}, all {c} are {b}; no {c} are {a}.
+no {a} are {b}, all {c} are {b}; some {c} are not {a}.
+no {a} are {b}, some {c} are {b}; all {c} are {a}.
+no {a} are {b}, some {c} are {b}; some {c} are {a}.
+no {a} are {b}, some {c} are {b}; no {c} are {a}.
+no {a} are {b}, some {c} are {b}; some {c} are not {a}.
+no {a} are {b}, no {c} are {b}; all {c} are {a}.
+no {a} are {b}, no {c} are {b}; some {c} are {a}.
+no {a} are {b}, no {c} are {b}; no {c} are {a}.
+no {a} are {b}, no {c} are {b}; some {c} are not {a}.
+no {a} are {b}, some {c} are not {b}; all {c} are {a}.
+no {a} are {b}, some {c} are not {b}; some {c} are {a}.
+no {a} are {b}, some {c} are not {b}; no {c} are {a}.
+no {a} are {b}, some {c} are not {b}; some {c} are not {a}.
+some {a} are not {b}, all {c} are {b}; all {c} are {a}.
+some {a} are not {b}, all {c} are {b}; some {c} are {a}.
+some {a} are not {b}, all {c} are {b}; no {c} are {a}.
+some {a} are not {b}, all {c} are {b}; some {c} are not {a}.
+some {a} are not {b}, some {c} are {b}; all {c} are {a}.
+some {a} are not {b}, some {c} are {b}; some {c} are {a}.
+some {a} are not {b}, some {c} are {b}; no {c} are {a}.
+some {a} are not {b}, some {c} are {b}; some {c} are not {a}.
+some {a} are not {b}, no {c} are {b}; all {c} are {a}.
+some {a} are not {b}, no {c} are {b}; some {c} are {a}.
+some {a} are not {b}, no {c} are {b}; no {c} are {a}.
+some {a} are not {b}, no {c} are {b}; some {c} are not {a}.
+some {a} are not {b}, some {c} are not {b}; all {c} are {a}.
+some {a} are not {b}, some {c} are not {b}; some {c} are {a}.
+some {a} are not {b}, some {c} are not {b}; no {c} are {a}.
+some {a} are not {b}, some {c} are not {b}; some {c} are not {a}.
+all {b} are {a}, all {b} are {c}; all {c} are {a}.
+all {b} are {a}, all {b} are {c}; some {c} are {a}.
+all {b} are {a}, all {b} are {c}; no {c} are {a}.
+all {b} are {a}, all {b} are {c}; some {c} are not {a}.
+all {b} are {a}, some {b} are {c}; all {c} are {a}.
+all {b} are {a}, some {b} are {c}; some {c} are {a}.
+all {b} are {a}, some {b} are {c}; no {c} are {a}.
+all {b} are {a}, some {b} are {c}; some {c} are not {a}.
+all {b} are {a}, no {b} are {c}; all {c} are {a}.
+all {b} are {a}, no {b} are {c}; some {c} are {a}.
+all {b} are {a}, no {b} are {c}; no {c} are {a}.
+all {b} are {a}, no {b} are {c}; some {c} are not {a}.
+all {b} are {a}, some {b} are not {c}; all {c} are {a}.
+all {b} are {a}, some {b} are not {c}; some {c} are {a}.
+all {b} are {a}, some {b} are not {c}; no {c} are {a}.
+all {b} are {a}, some {b} are not {c}; some {c} are not {a}.
+some {b} are {a}, all {b} are {c}; all {c} are {a}.
+some {b} are {a}, all {b} are {c}; some {c} are {a}.
+some {b} are {a}, all {b} are {c}; no {c} are {a}.
+some {b} are {a}, all {b} are {c}; some {c} are not {a}.
+some {b} are {a}, some {b} are {c}; all {c} are {a}.
+some {b} are {a}, some {b} are {c}; some {c} are {a}.
+some {b} are {a}, some {b} are {c}; no {c} are {a}.
+some {b} are {a}, some {b} are {c}; some {c} are not {a}.
+some {b} are {a}, no {b} are {c}; all {c} are {a}.
+some {b} are {a}, no {b} are {c}; some {c} are {a}.
+some {b} are {a}, no {b} are {c}; no {c} are {a}.
+some {b} are {a}, no {b} are {c}; some {c} are not {a}.
+some {b} are {a}, some {b} are not {c}; all {c} are {a}.
+some {b} are {a}, some {b} are not {c}; some {c} are {a}.
+some {b} are {a}, some {b} are not {c}; no {c} are {a}.
+some {b} are {a}, some {b} are not {c}; some {c} are not {a}.
+no {b} are {a}, all {b} are {c}; all {c} are {a}.
+no {b} are {a}, all {b} are {c}; some {c} are {a}.
+no {b} are {a}, all {b} are {c}; no {c} are {a}.
+no {b} are {a}, all {b} are {c}; some {c} are not {a}.
+no {b} are {a}, some {b} are {c}; all {c} are {a}.
+no {b} are {a}, some {b} are {c}; some {c} are {a}.
+no {b} are {a}, some {b} are {c}; no {c} are {a}.
+no {b} are {a}, some {b} are {c}; some {c} are not {a}.
+no {b} are {a}, no {b} are {c}; all {c} are {a}.
+no {b} are {a}, no {b} are {c}; some {c} are {a}.
+no {b} are {a}, no {b} are {c}; no {c} are {a}.
+no {b} are {a}, no {b} are {c}; some {c} are not {a}.
+no {b} are {a}, some {b} are not {c}; all {c} are {a}.
+no {b} are {a}, some {b} are not {c}; some {c} are {a}.
+no {b} are {a}, some {b} are not {c}; no {c} are {a}.
+no {b} are {a}, some {b} are not {c}; some {c} are not {a}.
+some {b} are not {a}, all {b} are {c}; all {c} are {a}.
+some {b} are not {a}, all {b} are {c}; some {c} are {a}.
+some {b} are not {a}, all {b} are {c}; no {c} are {a}.
+some {b} are not {a}, all {b} are {c}; some {c} are not {a}.
+some {b} are not {a}, some {b} are {c}; all {c} are {a}.
+some {b} are not {a}, some {b} are {c}; some {c} are {a}.
+some {b} are not {a}, some {b} are {c}; no {c} are {a}.
+some {b} are not {a}, some {b} are {c}; some {c} are not {a}.
+some {b} are not {a}, no {b} are {c}; all {c} are {a}.
+some {b} are not {a}, no {b} are {c}; some {c} are {a}.
+some {b} are not {a}, no {b} are {c}; no {c} are {a}.
+some {b} are not {a}, no {b} are {c}; some {c} are not {a}.
+some {b} are not {a}, some {b} are not {c}; all {c} are {a}.
+some {b} are not {a}, some {b} are not {c}; some {c} are {a}.
+some {b} are not {a}, some {b} are not {c}; no {c} are {a}.
+some {b} are not {a}, some {b} are not {c}; some {c} are not {a}.
+all {a} are {b}, all {b} are {c}; all {c} are {a}.
+all {a} are {b}, all {b} are {c}; some {c} are {a}.
+all {a} are {b}, all {b} are {c}; no {c} are {a}.
+all {a} are {b}, all {b} are {c}; some {c} are not {a}.
+all {a} are {b}, some {b} are {c}; all {c} are {a}.
+all {a} are {b}, some {b} are {c}; some {c} are {a}.
+all {a} are {b}, some {b} are {c}; no {c} are {a}.
+all {a} are {b}, some {b} are {c}; some {c} are not {a}.
+all {a} are {b}, no {b} are {c}; all {c} are {a}.
+all {a} are {b}, no {b} are {c}; some {c} are {a}.
+all {a} are {b}, no {b} are {c}; no {c} are {a}.
+all {a} are {b}, no {b} are {c}; some {c} are not {a}.
+all {a} are {b}, some {b} are not {c}; all {c} are {a}.
+all {a} are {b}, some {b} are not {c}; some {c} are {a}.
+all {a} are {b}, some {b} are not {c}; no {c} are {a}.
+all {a} are {b}, some {b} are not {c}; some {c} are not {a}.
+some {a} are {b}, all {b} are {c}; all {c} are {a}.
+some {a} are {b}, all {b} are {c}; some {c} are {a}.
+some {a} are {b}, all {b} are {c}; no {c} are {a}.
+some {a} are {b}, all {b} are {c}; some {c} are not {a}.
+some {a} are {b}, some {b} are {c}; all {c} are {a}.
+some {a} are {b}, some {b} are {c}; some {c} are {a}.
+some {a} are {b}, some {b} are {c}; no {c} are {a}.
+some {a} are {b}, some {b} are {c}; some {c} are not {a}.
+some {a} are {b}, no {b} are {c}; all {c} are {a}.
+some {a} are {b}, no {b} are {c}; some {c} are {a}.
+some {a} are {b}, no {b} are {c}; no {c} are {a}.
+some {a} are {b}, no {b} are {c}; some {c} are not {a}.
+some {a} are {b}, some {b} are not {c}; all {c} are {a}.
+some {a} are {b}, some {b} are not {c}; some {c} are {a}.
+some {a} are {b}, some {b} are not {c}; no {c} are {a}.
+some {a} are {b}, some {b} are not {c}; some {c} are not {a}.
+no {a} are {b}, all {b} are {c}; all {c} are {a}.
+no {a} are {b}, all {b} are {c}; some {c} are {a}.
+no {a} are {b}, all {b} are {c}; no {c} are {a}.
+no {a} are {b}, all {b} are {c}; some {c} are not {a}.
+no {a} are {b}, some {b} are {c}; all {c} are {a}.
+no {a} are {b}, some {b} are {c}; some {c} are {a}.
+no {a} are {b}, some {b} are {c}; no {c} are {a}.
+no {a} are {b}, some {b} are {c}; some {c} are not {a}.
+no {a} are {b}, no {b} are {c}; all {c} are {a}.
+no {a} are {b}, no {b} are {c}; some {c} are {a}.
+no {a} are {b}, no {b} are {c}; no {c} are {a}.
+no {a} are {b}, no {b} are {c}; some {c} are not {a}.
+no {a} are {b}, some {b} are not {c}; all {c} are {a}.
+no {a} are {b}, some {b} are not {c}; some {c} are {a}.
+no {a} are {b}, some {b} are not {c}; no {c} are {a}.
+no {a} are {b}, some {b} are not {c}; some {c} are not {a}.
+some {a} are not {b}, all {b} are {c}; all {c} are {a}.
+some {a} are not {b}, all {b} are {c}; some {c} are {a}.
+some {a} are not {b}, all {b} are {c}; no {c} are {a}.
+some {a} are not {b}, all {b} are {c}; some {c} are not {a}.
+some {a} are not {b}, some {b} are {c}; all {c} are {a}.
+some {a} are not {b}, some {b} are {c}; some {c} are {a}.
+some {a} are not {b}, some {b} are {c}; no {c} are {a}.
+some {a} are not {b}, some {b} are {c}; some {c} are not {a}.
+some {a} are not {b}, no {b} are {c}; all {c} are {a}.
+some {a} are not {b}, no {b} are {c}; some {c} are {a}.
+some {a} are not {b}, no {b} are {c}; no {c} are {a}.
+some {a} are not {b}, no {b} are {c}; some {c} are not {a}.
+some {a} are not {b}, some {b} are not {c}; all {c} are {a}.
+some {a} are not {b}, some {b} are not {c}; some {c} are {a}.
+some {a} are not {b}, some {b} are not {c}; no {c} are {a}.
+some {a} are not {b}, some {b} are not {c}; some {c} are not {a}.

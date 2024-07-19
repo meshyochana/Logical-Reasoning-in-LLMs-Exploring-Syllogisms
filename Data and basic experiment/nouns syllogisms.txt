@@ -1,0 +1,256 @@
+all tellers are miners, all poets are tellers; all poets are miners.
+all barbers are skaters, all cooks are barbers; some cooks are skaters.
+all tailors are models, all florists are tailors; no florists are models.
+all sculptors are actuaries, all writers are sculptors; some writers are not actuaries.
+all sculptors are actuaries, some writers are sculptors; all writers are actuaries.
+all hikers are students, some designers are hikers; some designers are students.
+all opticians are runners, some clerks are opticians; no clerks are runners.
+all painters are surfers, some porters are painters; some porters are not surfers.
+all hikers are students, no designers are hikers; all designers are students.
+all assistants are athletes, no chefs are assistants; some chefs are athletes.
+all painters are surfers, no porters are painters; no porters are surfers.
+all cooks are linguists, no models are cooks; some models are not linguists.
+all actors are joggers, some carpenters are not actors; all carpenters are joggers.
+all opticians are runners, some clerks are not opticians; some clerks are runners.
+all sailors are planners, some engineers are not sailors; no engineers are planners.
+all opticians are runners, some clerks are not opticians; some clerks are not runners.
+some opticians are runners, all clerks are opticians; all clerks are runners.
+some assistants are athletes, all chefs are assistants; some chefs are athletes.
+some workers are chemists, all painters are workers; no painters are chemists.
+some bankers are dancers, all riders are bankers; some riders are not dancers.
+some opticians are runners, some clerks are opticians; all clerks are runners.
+some analysts are hunters, some swimmers are analysts; some swimmers are hunters.
+some drivers are chemists, some dancers are drivers; no dancers are chemists.
+some hikers are therapists, some opticians are hikers; some opticians are not therapists.
+some opticians are runners, no clerks are opticians; all clerks are runners.
+some opticians are runners, no clerks are opticians; some clerks are runners.
+some bankers are dancers, no riders are bankers; no riders are dancers.
+some porters are drivers, no chemists are porters; some chemists are not drivers.
+some novelists are scientists, some florists are not novelists; all florists are scientists.
+some surfers are farmers, some writers are not surfers; some writers are farmers.
+some assistants are athletes, some chefs are not assistants; no chefs are athletes.
+some tailors are models, some florists are not tailors; some florists are not models.
+no bankers are dancers, all riders are bankers; all riders are dancers.
+no sailors are planners, all engineers are sailors; some engineers are planners.
+no clerks are managers, all butchers are clerks; no butchers are managers.
+no drivers are chemists, all dancers are drivers; some dancers are not chemists.
+no cashiers are students, some doctors are cashiers; all doctors are students.
+no butchers are clerks, some athletes are butchers; some athletes are clerks.
+no sailors are planners, some engineers are sailors; no engineers are planners.
+no actors are joggers, some carpenters are actors; some carpenters are not joggers.
+no opticians are runners, no clerks are opticians; all clerks are runners.
+no bankers are dancers, no riders are bankers; some riders are dancers.
+no assistants are athletes, no chefs are assistants; no chefs are athletes.
+no agents are riders, no waiters are agents; some waiters are not riders.
+no hikers are therapists, some opticians are not hikers; all opticians are therapists.
+no sculptors are actuaries, some writers are not sculptors; some writers are actuaries.
+no novelists are scientists, some florists are not novelists; no florists are scientists.
+no analysts are hunters, some swimmers are not analysts; some swimmers are not hunters.
+some riders are not doctors, all investors are riders; all investors are doctors.
+some agents are not riders, all waiters are agents; some waiters are riders.
+some novelists are not scientists, all florists are novelists; no florists are scientists.
+some skaters are not linguists, all singers are skaters; some singers are not linguists.
+some bankers are not dancers, some riders are bankers; all riders are dancers.
+some bankers are not dancers, some riders are bankers; some riders are dancers.
+some butchers are not clerks, some athletes are butchers; no athletes are clerks.
+some sculptors are not actuaries, some writers are sculptors; some writers are not actuaries.
+some poets are not assistants, no scientists are poets; all scientists are assistants.
+some analysts are not hunters, no swimmers are analysts; some swimmers are hunters.
+some cyclists are not golfers, no assistants are cyclists; no assistants are golfers.
+some assistants are not athletes, no chefs are assistants; some chefs are not athletes.
+some hikers are not students, some designers are not hikers; all designers are students.
+some barbers are not skaters, some cooks are not barbers; some cooks are skaters.
+some workers are not chemists, some painters are not workers; no painters are chemists.
+some riders are not doctors, some investors are not riders; some investors are not doctors.
+all athletes are assistants, all chefs are assistants; all chefs are athletes.
+all runners are opticians, all clerks are opticians; some clerks are runners.
+all actuaries are sculptors, all writers are sculptors; no writers are actuaries.
+all clerks are butchers, all athletes are butchers; some athletes are not clerks.
+all actuaries are sculptors, some writers are sculptors; all writers are actuaries.
+all linguists are skaters, some singers are skaters; some singers are linguists.
+all drivers are porters, some chemists are porters; no chemists are drivers.
+all dancers are bankers, some riders are bankers; some riders are not dancers.
+all chemists are drivers, no dancers are drivers; all dancers are chemists.
+all surfers are painters, no porters are painters; some porters are surfers.
+all managers are clerks, no butchers are clerks; no butchers are managers.
+all riders are novelists, no linguists are novelists; some linguists are not riders.
+all farmers are surfers, some writers are not surfers; all writers are farmers.
+all drivers are porters, some chemists are not porters; some chemists are drivers.
+all gamblers are cleaners, some models are not cleaners; no models are gamblers.
+all planners are sailors, some engineers are not sailors; some engineers are not planners.
+some linguists are skaters, all singers are skaters; all singers are linguists.
+some students are hikers, all designers are hikers; some designers are students.
+some students are cashiers, all doctors are cashiers; no doctors are students.
+some assistants are poets, all scientists are poets; some scientists are not assistants.
+some therapists are hikers, some opticians are hikers; all opticians are therapists.
+some miners are tellers, some poets are tellers; some poets are miners.
+some doctors are riders, some investors are riders; no investors are doctors.
+some therapists are hikers, some opticians are hikers; some opticians are not therapists.
+some skaters are barbers, no cooks are barbers; all cooks are skaters.
+some clerks are butchers, no athletes are butchers; some athletes are clerks.
+some scientists are novelists, no florists are novelists; no florists are scientists.
+some runners are opticians, no clerks are opticians; some clerks are not runners.
+some drivers are porters, some chemists are not porters; all chemists are drivers.
+some linguists are skaters, some singers are not skaters; some singers are linguists.
+some skaters are barbers, some cooks are not barbers; no cooks are skaters.
+some doctors are riders, some investors are not riders; some investors are not doctors.
+no farmers are surfers, all writers are surfers; all writers are farmers.
+no riders are novelists, all linguists are novelists; some linguists are riders.
+no drivers are porters, all chemists are porters; no chemists are drivers.
+no hunters are analysts, all swimmers are analysts; some swimmers are not hunters.
+no therapists are hikers, some opticians are hikers; all opticians are therapists.
+no managers are clerks, some butchers are clerks; some butchers are managers.
+no golfers are cyclists, some assistants are cyclists; no assistants are golfers.
+no managers are clerks, some butchers are clerks; some butchers are not managers.
+no drivers are porters, no chemists are porters; all chemists are drivers.
+no linguists are skaters, no singers are skaters; some singers are linguists.
+no gamblers are cleaners, no models are cleaners; no models are gamblers.
+no scientists are novelists, no florists are novelists; some florists are not scientists.
+no skaters are barbers, some cooks are not barbers; all cooks are skaters.
+no riders are novelists, some linguists are not novelists; some linguists are riders.
+no actuaries are sculptors, some writers are not sculptors; no writers are actuaries.
+no actuaries are sculptors, some writers are not sculptors; some writers are not actuaries.
+some assistants are not poets, all scientists are poets; all scientists are assistants.
+some models are not tailors, all florists are tailors; some florists are models.
+some joggers are not actors, all carpenters are actors; no carpenters are joggers.
+some drivers are not porters, all chemists are porters; some chemists are not drivers.
+some students are not cashiers, some doctors are cashiers; all doctors are students.
+some drivers are not porters, some chemists are porters; some chemists are drivers.
+some farmers are not surfers, some writers are surfers; no writers are farmers.
+some linguists are not cooks, some models are cooks; some models are not linguists.
+some managers are not clerks, no butchers are clerks; all butchers are managers.
+some linguists are not cooks, no models are cooks; some models are linguists.
+some drivers are not porters, no chemists are porters; no chemists are drivers.
+some joggers are not actors, no carpenters are actors; some carpenters are not joggers.
+some golfers are not cyclists, some assistants are not cyclists; all assistants are golfers.
+some clerks are not butchers, some athletes are not butchers; some athletes are clerks.
+some hunters are not analysts, some swimmers are not analysts; no swimmers are hunters.
+some gamblers are not cleaners, some models are not cleaners; some models are not gamblers.
+all porters are drivers, all porters are chemists; all chemists are drivers.
+all actors are joggers, all actors are carpenters; some carpenters are joggers.
+all barbers are skaters, all barbers are cooks; no cooks are skaters.
+all bankers are dancers, all bankers are riders; some riders are not dancers.
+all painters are surfers, some painters are porters; all porters are surfers.
+all cashiers are students, some cashiers are doctors; some doctors are students.
+all cooks are linguists, some cooks are models; no models are linguists.
+all surfers are farmers, some surfers are writers; some writers are not farmers.
+all hikers are students, no hikers are designers; all designers are students.
+all hikers are students, no hikers are designers; some designers are students.
+all tailors are models, no tailors are florists; no florists are models.
+all butchers are clerks, no butchers are athletes; some athletes are not clerks.
+all hikers are students, some hikers are not designers; all designers are students.
+all surfers are farmers, some surfers are not writers; some writers are farmers.
+all skaters are linguists, some skaters are not singers; no singers are linguists.
+all porters are drivers, some porters are not chemists; some chemists are not drivers.
+some clerks are managers, all clerks are butchers; all butchers are managers.
+some hikers are students, all hikers are designers; some designers are students.
+some barbers are skaters, all barbers are cooks; no cooks are skaters.
+some butchers are clerks, all butchers are athletes; some athletes are not clerks.
+some surfers are farmers, some surfers are writers; all writers are farmers.
+some tellers are miners, some tellers are poets; some poets are miners.
+some barbers are skaters, some barbers are cooks; no cooks are skaters.
+some agents are riders, some agents are waiters; some waiters are not riders.
+some butchers are clerks, no butchers are athletes; all athletes are clerks.
+some analysts are hunters, no analysts are swimmers; some swimmers are hunters.
+some painters are surfers, no painters are porters; no porters are surfers.
+some sailors are planners, no sailors are engineers; some engineers are not planners.
+some skaters are linguists, some skaters are not singers; all singers are linguists.
+some cyclists are golfers, some cyclists are not assistants; some assistants are golfers.
+some hikers are therapists, some hikers are not opticians; no opticians are therapists.
+some novelists are scientists, some novelists are not florists; some florists are not scientists.
+no clerks are managers, all clerks are butchers; all butchers are managers.
+no bankers are dancers, all bankers are riders; some riders are dancers.
+no agents are riders, all agents are waiters; no waiters are riders.
+no agents are riders, all agents are waiters; some waiters are not riders.
+no scholars are nurses, some scholars are buyers; all buyers are nurses.
+no riders are doctors, some riders are investors; some investors are doctors.
+no hikers are students, some hikers are designers; no designers are students.
+no sculptors are actuaries, some sculptors are writers; some writers are not actuaries.
+no painters are surfers, no painters are porters; all porters are surfers.
+no hikers are therapists, no hikers are opticians; some opticians are therapists.
+no poets are assistants, no poets are scientists; no scientists are assistants.
+no poets are assistants, no poets are scientists; some scientists are not assistants.
+no analysts are hunters, some analysts are not swimmers; all swimmers are hunters.
+no barbers are skaters, some barbers are not cooks; some cooks are skaters.
+no cooks are linguists, some cooks are not models; no models are linguists.
+no assistants are athletes, some assistants are not chefs; some chefs are not athletes.
+some analysts are not hunters, all analysts are swimmers; all swimmers are hunters.
+some surfers are not farmers, all surfers are writers; some writers are farmers.
+some analysts are not hunters, all analysts are swimmers; no swimmers are hunters.
+some assistants are not athletes, all assistants are chefs; some chefs are not athletes.
+some butchers are not clerks, some butchers are athletes; all athletes are clerks.
+some opticians are not runners, some opticians are clerks; some clerks are runners.
+some opticians are not runners, some opticians are clerks; no clerks are runners.
+some hikers are not students, some hikers are designers; some designers are not students.
+some actors are not joggers, no actors are carpenters; all carpenters are joggers.
+some cooks are not linguists, no cooks are models; some models are linguists.
+some actors are not joggers, no actors are carpenters; no carpenters are joggers.
+some workers are not chemists, no workers are painters; some painters are not chemists.
+some skaters are not linguists, some skaters are not singers; all singers are linguists.
+some cooks are not linguists, some cooks are not models; some models are linguists.
+some surfers are not farmers, some surfers are not writers; no writers are farmers.
+some poets are not assistants, some poets are not scientists; some scientists are not assistants.
+all riders are agents, all agents are waiters; all waiters are riders.
+all doctors are riders, all riders are investors; some investors are doctors.
+all assistants are poets, all poets are scientists; no scientists are assistants.
+all therapists are hikers, all hikers are opticians; some opticians are not therapists.
+all golfers are cyclists, some cyclists are assistants; all assistants are golfers.
+all runners are opticians, some opticians are clerks; some clerks are runners.
+all riders are agents, some agents are waiters; no waiters are riders.
+all planners are sailors, some sailors are engineers; some engineers are not planners.
+all linguists are skaters, no skaters are singers; all singers are linguists.
+all hunters are analysts, no analysts are swimmers; some swimmers are hunters.
+all assistants are poets, no poets are scientists; no scientists are assistants.
+all models are tailors, no tailors are florists; some florists are not models.
+all riders are agents, some agents are not waiters; all waiters are riders.
+all farmers are surfers, some surfers are not writers; some writers are farmers.
+all riders are agents, some agents are not waiters; no waiters are riders.
+all gamblers are cleaners, some cleaners are not models; some models are not gamblers.
+some linguists are cooks, all cooks are models; all models are linguists.
+some linguists are skaters, all skaters are singers; some singers are linguists.
+some models are tailors, all tailors are florists; no florists are models.
+some linguists are cooks, all cooks are models; some models are not linguists.
+some managers are clerks, some clerks are butchers; all butchers are managers.
+some models are tailors, some tailors are florists; some florists are models.
+some hunters are analysts, some analysts are swimmers; no swimmers are hunters.
+some managers are clerks, some clerks are butchers; some butchers are not managers.
+some actuaries are sculptors, no sculptors are writers; all writers are actuaries.
+some joggers are actors, no actors are carpenters; some carpenters are joggers.
+some scientists are novelists, no novelists are florists; no florists are scientists.
+some farmers are surfers, no surfers are writers; some writers are not farmers.
+some linguists are skaters, some skaters are not singers; all singers are linguists.
+some managers are clerks, some clerks are not butchers; some butchers are managers.
+some nurses are scholars, some scholars are not buyers; no buyers are nurses.
+some managers are clerks, some clerks are not butchers; some butchers are not managers.
+no linguists are skaters, all skaters are singers; all singers are linguists.
+no gamblers are cleaners, all cleaners are models; some models are gamblers.
+no joggers are actors, all actors are carpenters; no carpenters are joggers.
+no nurses are scholars, all scholars are buyers; some buyers are not nurses.
+no gamblers are cleaners, some cleaners are models; all models are gamblers.
+no doctors are riders, some riders are investors; some investors are doctors.
+no hunters are analysts, some analysts are swimmers; no swimmers are hunters.
+no clerks are butchers, some butchers are athletes; some athletes are not clerks.
+no skaters are barbers, no barbers are cooks; all cooks are skaters.
+no skaters are barbers, no barbers are cooks; some cooks are skaters.
+no planners are sailors, no sailors are engineers; no engineers are planners.
+no chemists are drivers, no drivers are dancers; some dancers are not chemists.
+no linguists are cooks, some cooks are not models; all models are linguists.
+no nurses are scholars, some scholars are not buyers; some buyers are nurses.
+no farmers are surfers, some surfers are not writers; no writers are farmers.
+no clerks are butchers, some butchers are not athletes; some athletes are not clerks.
+some doctors are not riders, all riders are investors; all investors are doctors.
+some planners are not sailors, all sailors are engineers; some engineers are planners.
+some riders are not novelists, all novelists are linguists; no linguists are riders.
+some therapists are not hikers, all hikers are opticians; some opticians are not therapists.
+some linguists are not skaters, some skaters are singers; all singers are linguists.
+some runners are not opticians, some opticians are clerks; some clerks are runners.
+some students are not hikers, some hikers are designers; no designers are students.
+some riders are not novelists, some novelists are linguists; some linguists are not riders.
+some clerks are not butchers, no butchers are athletes; all athletes are clerks.
+some hunters are not analysts, no analysts are swimmers; some swimmers are hunters.
+some planners are not sailors, no sailors are engineers; no engineers are planners.
+some managers are not clerks, no clerks are butchers; some butchers are not managers.
+some managers are not clerks, some clerks are not butchers; all butchers are managers.
+some chemists are not drivers, some drivers are not dancers; some dancers are chemists.
+some hunters are not analysts, some analysts are not swimmers; no swimmers are hunters.
+some doctors are not riders, some riders are not investors; some investors are not doctors.
