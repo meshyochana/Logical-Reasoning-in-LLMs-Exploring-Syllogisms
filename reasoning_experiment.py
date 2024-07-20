@@ -36,12 +36,13 @@ async def ask_gpt(message: str) -> str:
     return _pluck_response_content(
         await CLIENT.chat.completions.create(
             model=MODEL,
-            messages=[_format_message(message)]
+            messages=[_format_message(message)],
+            temperature=0.7
         ))
 
 
 def create_prompt(syllogism: Any) -> str:
-    return f"{syllogism}. Does the conclusion necessarily follows from the premises? Let's think this through, step by step. The last character of your answer should contain either 0 or 1, for False or True accordingly."
+    return f"{syllogism}. Does the conclusion necessarily follows from the two premises? Let's think this through, step by step. The last character of your answer should contain either 0 or 1, for False or True accordingly."
 
 
 def save_results(results: Iterable[str], df_experiment, column) -> None:
